@@ -7,9 +7,6 @@
 }
 
 
-
-
-
 header {
     background-color: var(--background-color) !important;
     color: var(--text-color) !important;
@@ -49,6 +46,10 @@ social-medias-area {
 .resume {
     transition: all 0.3s ease-in-out !important;
 }
+.file{
+    transition: all 0.3s ease-in-out !important;
+
+}
 
 .linkedin {
     transition: all 0.3s ease-in-out !important;
@@ -67,6 +68,11 @@ social-medias-area {
 }
 
 .telegram {
+    transition: all 0.3s ease-in-out !important;
+}
+
+.file:hover {
+    color: #ff6b6b !important;
     transition: all 0.3s ease-in-out !important;
 }
 
